@@ -1,0 +1,28 @@
+name: ShowYourAuto
+favicon: null
+layout_spectrum: 0.28677401365712285
+typography_spectrum: 0.634470529621467
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.44843226415105164
+  lightness: 0.16583871166221797
+  saturation: 0.6856054237578064
+  rhythmicContrast: 0.3110782294534147
+purpose: []
