@@ -1,6 +1,6 @@
 name: ShowYourAuto
 favicon: null
-layout_spectrum: 0.24883
+layout_spectrum: 0.50271
 typography_spectrum: 0.83501
 title: 'Show Your Auto LLC | Find What Drives You.'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#963300'
     - '#b63f00'
     - '#5c2000'
-  brandStrength: 0.4375
-  lightness: 0.25
-  saturation: 0.8125
-  rhythmicContrast: 0.25
+  brandStrength: 0.5625
+  lightness: 1
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
