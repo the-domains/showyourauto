@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Home > Buy > '70 Dodge Challenger R/T 440 SIX PACK Convertible, Original Export Car '70 Dodge Challenger R/T 440 SIX PACK Convertible, Original Export Car \_\_   "
-datePublished: '2015-11-26T17:25:27.230Z'
-dateModified: '2015-11-26T17:22:57.192Z'
+datePublished: '2015-11-26T17:27:25.817Z'
+dateModified: '2015-11-26T17:26:08.236Z'
 author: []
 title: "1970 Dodge Challenger R/T 440 SIX PACK Convertible, Only Export Car\_"
 authors: []
