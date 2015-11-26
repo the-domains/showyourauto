@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Show Your Auto LLC | Find What Drives You.]]></title>
         <description><![CDATA[Show Your Auto LLC | Find What Drives You.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/showyourauto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 Nov 2015 17:25:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 26 Nov 2015 17:28:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/showyourauto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[1970 Dodge Challenger R/T 440 SIX PACK Convertible, Only Export Car ]]></title>
             <description><![CDATA[<article><h1>1970 Dodge Challenger R/T 440 SIX PACK Convertible, Only Export Car </h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b92dac6e-5b37-4d8b-81bf-cc6bcc2387ee.jpg"></article>]]></description>
-            <link>undefined1970-dodge-challenger-rt-440-six-pack-convertible-only-exp/index.html</link>
+            <link>https://thegrid.ai/showyourauto/1970-dodge-challenger-rt-440-six-pack-convertible-only-exp/index.html</link>
             <guid isPermaLink="false">3ad1c13f-5aa8-4509-a57a-9381bcdb4af5</guid>
-            <pubDate>Thu, 26 Nov 2015 17:25:27 GMT</pubDate>
+            <pubDate>Thu, 26 Nov 2015 17:27:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
